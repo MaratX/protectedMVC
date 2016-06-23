@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="protectedMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="protectedMVC.war">
+      <element id="artifact" artifact-name="protectedMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
